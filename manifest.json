@@ -1,0 +1,6 @@
+{
+"manifest_version": 3,
+  "name": "NSFW YouTube Redirect",
+  "version": "1.0",
+  "description": "Add an option to open YouTube videos on www.nsfwyoutube.com"
+}
