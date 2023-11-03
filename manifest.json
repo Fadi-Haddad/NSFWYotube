@@ -16,10 +16,10 @@
   "background": {
     "service_worker": "background.js"
   },
-  "content_scripts": [
-    {
-      "matches": ["*://www.youtube.com/*"],
-      "js": ["content.js"]
-    }
+"content_scripts": [
+  {
+    "matches": ["*://www.youtube.com/*"],
+    "js": ["content.js"]
+  }
 ]
 }
